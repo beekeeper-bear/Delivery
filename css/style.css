@@ -336,16 +336,15 @@ body {
 }
 
 .food-counter {
-   display: flex; /* выстроить в линию*/
+  display: flex; /* выстроить в линию*/
   align-items: center; /* элементы становятся по центру*/
+}
 
-}
-}
 .counter-button {
-   display: flex; /* выстроить в линию*/
+  display: flex; /* выстроить в линию*/
   align-items: center; /* элементы становятся по центру*/
   justify-content: center; /* раскидать контент по кр*/
-}
+
   widows: 39px;
   height: 32px;
   /* Gray / gray-1 */
@@ -357,12 +356,9 @@ body {
   border-radius: 2px;
 }
 .modal-footer {
-
   display: flex; /* выстроить в линию*/
   align-items: center; /* элементы становятся по центру*/
   justify-content: space-between; /* раскидать контент по кр*/
-
-
 }
 .footer-buttons {
   display: flex;
